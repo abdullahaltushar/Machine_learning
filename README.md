@@ -1,4 +1,5 @@
 # Machine Learning
+<p> Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values. </p>
 <h2>Machine Learning Model:</h2>
 <h3>1. Supervised learning </h3>
   <h4> Classification Model </h4> 
